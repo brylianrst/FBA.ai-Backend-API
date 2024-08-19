@@ -1,0 +1,9 @@
+Flask==2.3.2
+Flask-Login==0.6.2
+Flask-SQLAlchemy==2.5.1
+pandas==1.5.3
+python-dotenv==1.0.0
+PyMuPDF==1.21.0
+python-docx==0.8.11
+psycopg2-binary==2.9.6
+Werkzeug==2.3.3
